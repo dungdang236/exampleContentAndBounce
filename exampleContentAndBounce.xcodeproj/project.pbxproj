@@ -15,6 +15,7 @@
 		BEA0BB531C4754CF0070AE4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEA0BB511C4754CF0070AE4C /* LaunchScreen.storyboard */; };
 		BEA0BB5E1C4754CF0070AE4C /* exampleContentAndBounceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BEA0BB5D1C4754CF0070AE4C /* exampleContentAndBounceTests.m */; };
 		BEA0BB691C4754CF0070AE4C /* exampleContentAndBounceUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = BEA0BB681C4754CF0070AE4C /* exampleContentAndBounceUITests.m */; };
+		BEA0BB771C4755F20070AE4C /* people.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BEA0BB761C4755F20070AE4C /* people.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		BEA0BB641C4754CF0070AE4C /* exampleContentAndBounceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = exampleContentAndBounceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEA0BB681C4754CF0070AE4C /* exampleContentAndBounceUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = exampleContentAndBounceUITests.m; sourceTree = "<group>"; };
 		BEA0BB6A1C4754CF0070AE4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BEA0BB761C4755F20070AE4C /* people.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = people.jpg; path = ../../../Downloads/people.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				BEA0BB4A1C4754CF0070AE4C /* ViewController.m */,
 				BEA0BB4C1C4754CF0070AE4C /* Main.storyboard */,
 				BEA0BB4F1C4754CF0070AE4C /* Assets.xcassets */,
+				BEA0BB761C4755F20070AE4C /* people.jpg */,
 				BEA0BB511C4754CF0070AE4C /* LaunchScreen.storyboard */,
 				BEA0BB541C4754CF0070AE4C /* Info.plist */,
 				BEA0BB431C4754CF0070AE4C /* Supporting Files */,
@@ -245,6 +248,7 @@
 			files = (
 				BEA0BB531C4754CF0070AE4C /* LaunchScreen.storyboard in Resources */,
 				BEA0BB501C4754CF0070AE4C /* Assets.xcassets in Resources */,
+				BEA0BB771C4755F20070AE4C /* people.jpg in Resources */,
 				BEA0BB4E1C4754CF0070AE4C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
